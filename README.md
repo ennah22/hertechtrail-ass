@@ -11,6 +11,6 @@ Objective:
 - Display the selected color name while changing the background.
 
 Three files was created in a directory:
-index.html: This file defines the webpage structure using HTML.
-style.css: This file contains styles for the webpage elements using CSS.
-script.js: This file holds the JavaScript code responsible for functionalities.
+- index.html: This file defines the webpage structure using HTML.
+- style.css: This file contains styles for the webpage elements using CSS.
+- script.js: This file holds the JavaScript code responsible for functionalities.
