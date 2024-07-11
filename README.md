@@ -1,7 +1,9 @@
 # WELCOME
 
 Title: Color-changer Webpage
-This assignment creates a simple webpage with a button that allows users to change the background color. Here's what you'll find:
+
+This assignment creates a simple webpage with a button that allows users to change the background color. 
+Here's what you'll find:
 
 Objective:
 
